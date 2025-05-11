@@ -71,6 +71,7 @@ The project combines multiple public datasets from 2016:
 
 ## ▶️ How to Run
 
-1. Clone this repo:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/Dev-Hossam/Data-Science-Road-Fatality-Analysis.git
+   cd Data-Science-Road-Fatality-Analysis
