@@ -1,10 +1,10 @@
-# 🚧 Data Science Project: Road Fatality Analysis (U.S.)
+# Road Fatality Analysis 2016 (U.S) 
 
 This project performs an in-depth **exploratory data analysis (EDA)** and **predictive modeling** on traffic fatalities across the United States. The goal is to uncover patterns, influential factors, and potential correlations using data from multiple government and open sources.
 
 ---
 
-## 📊 Project Objectives
+## Project Objectives
 
 - Analyze traffic fatality trends by state, population, and road conditions.
 - Explore correlations with holidays, distracted driving laws, and road infrastructure.
@@ -13,7 +13,7 @@ This project performs an in-depth **exploratory data analysis (EDA)** and **pred
 
 ---
 
-## 🗂️ Data Sources
+## Data Sources
 
 The project combines multiple public datasets from 2016:
 
@@ -27,7 +27,7 @@ The project combines multiple public datasets from 2016:
 
 ---
 
-## 📌 Features Extracted
+## Features Extracted
 
 - Number of licensed drivers
 - Total road miles (urban/rural)
@@ -39,7 +39,7 @@ The project combines multiple public datasets from 2016:
 
 ---
 
-## 🧪 Analysis & Methods
+## Analysis & Methods
 
 - **Pandas & Seaborn/Matplotlib** for cleaning and visualization
 - **State-by-state comparisons** using bar plots and heatmaps
@@ -49,7 +49,7 @@ The project combines multiple public datasets from 2016:
 
 ---
 
-## 📈 Sample Insights
+## Sample Insights
 
 - States with **hands-free laws** show lower fatality rates on average.
 - **Holiday weekends** (July 4th, Labor Day) consistently show spikes in accidents.
@@ -58,7 +58,7 @@ The project combines multiple public datasets from 2016:
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - Python 3.10+
 - Pandas
@@ -69,7 +69,7 @@ The project combines multiple public datasets from 2016:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. **Clone the repository**:
    ```bash
